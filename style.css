@@ -1,0 +1,10 @@
+body {
+  background: #643d3d;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: larger;
+}
+
+#taskInput {
+  background-color: rgb(166, 128, 128);
+}
